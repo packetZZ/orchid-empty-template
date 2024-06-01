@@ -14,13 +14,4 @@ $ php artisan key:generate
 $ php artisan migrate
 ```
 
-## Настройка Orchid Platform
-
-Для инициализации проекта, необходимо произвести последнюю настройку:
-
-```bash
-$ php artisan orchid:install
-Would you like to show a little love by starting with ⭐ (yes/no) [no]: [НАЖМИТЕ ENTER]
-```
-
 Проект готов для дальнейшей настройки...
